@@ -1,0 +1,17 @@
+1. Fitness Tracker / Workout App
+Purpose: A site where users can log workouts, track progress, and set fitness goals.
+API: Nutritionix API for meal tracking or Wger API for workout tracking.
+Skills: Data input forms, progress tracking, API integration for fitness data.
+Extra: Allow users to share their workout progress on social media or integrate with health apps like Google Fit.
+
+2. Weather App
+Purpose: A simple website where users can check the current weather conditions by entering a city name.
+API: OpenWeatherMap API or WeatherAPI
+Skills: Fetching data from external APIs, handling user input, displaying dynamic data.
+Extra: You could add features like a 5-day forecast, temperature units conversion, or background changes based on weather conditions.
+
+3. Movie Database
+Purpose: A site where users can search for movies, view details like ratings, cast, and trailers.
+API: The Movie Database (TMDb) API or OMDb API
+Skills: API requests for media data, pagination, and UI/UX design.
+Extra: Allow users to save their favorite movies or create a watchlist.
